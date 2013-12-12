@@ -1,0 +1,7 @@
+M = Monday, T = Tuesday, W = Wednesday, R = Thursday, F = Friday, S = Saturday, U = Sunday
+
+## Thursday, 2013-12-12
+
+**pdf.js** (https://github.com/mozilla/pdf.js) is a javascript library that reads and displays pdf files in the browser to the html5 canvas element. 
+
+I'd like to work on some internal and external aspects. The internal aspects are to document and visualize how the library retrieves the documents (network, stream), how it interprets them (parser, evaluator) and what objects (fonts, images, text, ...) you can output. The external aspect refers to the viewer and how to display and navigate documents, select, search and highlight text.
