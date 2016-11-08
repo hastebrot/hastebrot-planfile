@@ -1,0 +1,22 @@
+Sun / Nov 06, 2016
+------------------
+
+Code words
+
+[quote]
+Code Words is a publication about programming written by the Recurse Center community. [...]
+The Recurse Center is a free, three-month retreat for programmers, located in New York City. We value intrinsic motivation and self-direction, and believe people learn best when they're free to explore their passions and interests.
+
+* https://codewords.recurse.com/issues/one/type-systems-and-logic
+* https://www.reddit.com/r/programming/comments/5a0d2b/type_systems_and_logic/
+
+Algorithms, Etc.  by Jeff Erickson. January 2015 revision.
+
+* http://jeffe.cs.illinois.edu/teaching/algorithms/
+
+----
+Solarpunk’s vision is of an ecological society beyond war, domination, and artificial scarcity; where everything is powered by green energy and a culture of hierarchy and exclusion has been replaced by a culture founded on radical inclusiveness, unity-in-diversity, free cooperation, participatory democracy, and personal self-realisation.
+----
+
+* https://solarpunkanarchists.com/
+
